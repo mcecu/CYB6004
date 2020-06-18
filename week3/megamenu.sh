@@ -2,6 +2,7 @@
 
 ~/student/scripts/portfolio/week2/passwordcheck.sh
 
+#if statement which presents the options with different colours
 if [ $? -eq 0 ]
 then
 echo "$(tput setaf 3)SELECT AN OPTION
@@ -18,6 +19,7 @@ echo "access denied"
 exit 1
 fi
 
+#user interaction determines which case will execute
 read CHOICE
 
 case $CHOICE in
