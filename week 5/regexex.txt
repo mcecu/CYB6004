@@ -1,0 +1,11 @@
+grep -r ^hours.*[aeiou]$
+
+hours zzzzzzz
+
+hours and vowels
+
+Hours and vowels
+
+HOURS
+
+hours not vowels
