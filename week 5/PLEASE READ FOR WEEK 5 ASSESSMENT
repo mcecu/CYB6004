@@ -1,0 +1,4 @@
+I have seperated UserAccounts.sh and UserAccountsFiltered.sh. 
+UserAccountsFiltered.sh is the first assessable piece for week 5, whereas UserAccountsFiltered.sh only shows the
+users with /bin/bash as the default shell.
+Apologies for any confusion!
