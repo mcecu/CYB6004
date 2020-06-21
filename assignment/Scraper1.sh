@@ -39,6 +39,9 @@ cat temp.txt | sed -n -e 18p | fmt
  exit 0
 ;;
 
+*)
+echo "Please enter a valid option"
+
 esac
 done
 done
