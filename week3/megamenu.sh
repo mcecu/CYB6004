@@ -28,6 +28,7 @@ case $CHOICE in
 ~/student/scripts/portfolio/week2/foldermaker.sh
 ;;
 
+#due to running out of lab time I was unable the "Scripts" folder in time, therefore foldercopier.sh is held in the week 3 directory
 2)
 ~/student/scripts/folderCopier.sh
 ;;
@@ -39,7 +40,7 @@ case $CHOICE in
 4)
 ~/student/scripts/portfolio/week3/calc.sh
 ;;
-
+#similar to foldercopier.sh, megafoldermaker is held in the week 3 directory
 5)
 ~/student/scripts/portfolio/megafoldermaker.sh
 ;;
